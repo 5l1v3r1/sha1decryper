@@ -12,4 +12,4 @@ This is very simple all you do is type.
 ## Arguments
 usage: sha1cracker.py [-h] [--hash HASH] [--wordlist WORDLIST]
 
-****Give it a shot and tell me what you think.
+**Give it a shot and tell me what you think.**
