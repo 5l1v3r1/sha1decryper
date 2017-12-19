@@ -1,4 +1,4 @@
-# sha1decryper
+# sha1decrypter
 Simple Sha1 Bruteforcer
 
 ## How it works
